@@ -16,7 +16,6 @@ Willkommen auf meinem GitHub! Hier teile ich Projekte und Code, an denen ich arb
 
 ## 🌱 Was ich lerne:
 - Neue Programmiersprachen und Frameworks
-- Mathematische Konzepte für meine Projekte
 
 ## 📊 Sprachen und Werkzeuge:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemRagam&layout=compact&theme=radical)
