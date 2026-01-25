@@ -40,7 +40,7 @@ Willkommen auf meinem GitHub! Hier teile ich spannende Projekte und Codes, an de
 ## 🌐 Vernetzen:
 - [Instagram](https://www.instagram.com/ademrgm/)
 - [Discord](https://discord.com/users/851144621152796702)
-- [LinkedIn](https://www.linkedin.com/in/ademragam/)
+
 
 ---
 
