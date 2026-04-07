@@ -1,6 +1,5 @@
 ## 🎉 Hallöchen, ich bin Adem 👋
 
-Willkommen auf meinem GitHub! Hier teile ich spannende Projekte und Codes, an denen ich arbeite. Lass uns gemeinsam die Welt der Programmierung rocken! 🚀
 
 ---
 
