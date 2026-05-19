@@ -15,12 +15,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 
-
 ## GitHub
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdemRagam&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemRagam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdemRagam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AdemRagam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
