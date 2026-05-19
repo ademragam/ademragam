@@ -2,7 +2,7 @@
 
 # Adem
 
-`18` · 
+`18` · `code` · `learning`
 
 <br/>
 
