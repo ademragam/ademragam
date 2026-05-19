@@ -18,9 +18,11 @@
 
 ## GitHub
 
-![Adem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdemRagam&show_icons=true&hide_title=true&count_private=true&theme=dark)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdemRagam&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemRagam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemRagam&layout=compact&theme=dark)
 
 ## Links
 
